@@ -1,2 +1,2 @@
 # IPZFoodDelivery
-Delivery Food
+Food Delivery
